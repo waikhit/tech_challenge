@@ -1,0 +1,3 @@
+#1 - work on hsk-5
+#2 - continue BS
+#3 - google dev exercise 
